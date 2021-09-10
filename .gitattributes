@@ -1,0 +1,2 @@
+csv/user.csv filter=lfs diff=lfs merge=lfs -text
+json/user.json filter=lfs diff=lfs merge=lfs -text
